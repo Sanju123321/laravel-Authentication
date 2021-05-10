@@ -77,3 +77,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel-Authentication
+
+
+To run this project Please Follows the following instruction :-
+
+1. First open project Folder in Command prompt/terminal.
+2. And After than run composer update command.
+3. Run php artisan migrate ( For creating migration / tables).
+4. make .env file or change name of the .env.example file to .env.
+5. Then finally run php artisan serve. 
+
+Your  Project will be successfully created.
+7.
